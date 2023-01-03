@@ -1,0 +1,149 @@
+Delivered-To: dheerajyadavmandlana@gmail.com
+Received: by 2002:a05:6214:80d:b0:4c7:64c7:55c1 with SMTP id df13csp720202qvb;
+        Fri, 16 Dec 2022 00:47:23 -0800 (PST)
+X-Google-Smtp-Source: AA0mqf73p0jpFEYWxq/n9wUITdOaUhYlcbmOhHvx7YpomIXkF2B+15UtudGHDDsIcw7u16KZZzsY
+X-Received: by 2002:a0c:e750:0:b0:4c6:a49e:c255 with SMTP id g16-20020a0ce750000000b004c6a49ec255mr37304493qvn.35.1671180443303;
+        Fri, 16 Dec 2022 00:47:23 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1671180443; cv=none;
+        d=google.com; s=arc-20160816;
+        b=bIYMA8rqTXoTBMjjGbZPsmK1Ib/4Q5uCei99qzwMiNb0tywr654LwtqGkOqe+ngSxp
+         5HE7oj7GBZTG1tUSiH0OhJVybRHw/scrUOHSLmd7l2uWG+7ES1QJnztDgnbCIQ9bsdab
+         KGlyxMmHVQPkwUl7WvJagHEC2fqKyVVkB0v5IBcEyRY5+s8eYIcabvImDGRLpVYcyDiv
+         4w4HmoklBj169TFj8nNp22lgj97qicDGlF/J/Q3WtnubodNFObaw5/FfQNUQMR8nwLf7
+         CiDgFB7pOm11Nu+919aaLDFDBsIEzVXmT1aV5OPqKUu+KrH4Er+VrRZLQs/afcq5P2Hq
+         +AXA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:feedback-id:list-unsubscribe:message-id:subject
+         :reply-to:from:to:date;
+        bh=iNch3/Ap2RImY7ra3C2IJf+T7sczUynQI7PnlIGCqx8=;
+        b=RWCBPfFggZ1LKdCxGcafFp7v6YljIZQvLIJhZegrgbRYbz3SGsMchFsReRUEG3LZU5
+         dB8FE0ojuKw/L9eQ1ZFKyMRlr2a7IXVU+aZAPT8pEn70yZDbaOjXoV/t+XwPXitCLrZa
+         tN/a/mjCmWbmlcAN8DIiwQOXbTOy8fRxt9Vg/cCK5t1ZHDhwjkbw+X2/TAQclB5xcJIq
+         mj/2FJAdC60r3o1TlP6ah/DMHcjdEwO0mtpHFeuCdhkRJRmAiseWLtq4g/OU93jSKTRh
+         DbcssPDXt6tD8MQefpfzoXAD5N/DjWK+q71iKytY/K64fZTnUvmA1EEpB/CBidgG/KpR
+         GMUw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of campaign-iasscore-11024-1032-531570-dheerajyadavmandlana=gmail.com@mails.iasscoremails.in designates 107.170.139.100 as permitted sender) smtp.mailfrom="campaign-iasscore-11024-1032-531570-dheerajyadavmandlana=gmail.com@mails.iasscoremails.in"
+Return-Path: <campaign-iasscore-11024-1032-531570-dheerajyadavmandlana=gmail.com@mails.iasscoremails.in>
+Received: from crmail12.infimail.com (crmail12.infimail.com. [107.170.139.100])
+        by mx.google.com with ESMTPS id fv10-20020a056214240a00b004c690ad4bd2si857664qvb.316.2022.12.16.00.47.23
+        for <dheerajyadavmandlana@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 16 Dec 2022 00:47:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of campaign-iasscore-11024-1032-531570-dheerajyadavmandlana=gmail.com@mails.iasscoremails.in designates 107.170.139.100 as permitted sender) client-ip=107.170.139.100;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of campaign-iasscore-11024-1032-531570-dheerajyadavmandlana=gmail.com@mails.iasscoremails.in designates 107.170.139.100 as permitted sender) smtp.mailfrom="campaign-iasscore-11024-1032-531570-dheerajyadavmandlana=gmail.com@mails.iasscoremails.in"
+Date: Fri, 16 Dec 2022 13:16:36 +0530
+To: dheerajyadavmandlana@gmail.com
+From: GS SCORE <info@iasscore.in>
+Reply-To: info@iasscore.in
+Subject: Registration will Close Tomorrow for Scholarship Test of IAS Foundation 2024-25 (Online and Offline)
+Message-ID: <8004046607531570@mails.iasscoremails.in>
+List-Unsubscribe: <mailto:iasscore-11024-1032-531570-c9a6dde52d8ab1f61402d38f5ae39c5f@usub.iasscoremails.in?subject=Unsubscribe>, <http://emaila.iasscoremails.in/iasscore/?p=smunsub&mid=1032&uid=c9a6dde52d8ab1f61402d38f5ae39c5f>
+Feedback-ID: 1032:11024:20221216131636:nczc
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_edd842ed8f59b310a367bc4ccf724654"
+
+
+
+
+--b1_edd842ed8f59b310a367bc4ccf724654
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Aspirants,
+
+Vitti Research Foundation in collaboration with GS SCORE is conducting
+Super 100 Scholarship Test for
+UPSC Civil Services Exam aspirants for IAS Foundation 2024-25.
+
+The ‘Super 100 Scholarship Test’ is a way to Civil Service
+coaching and guidance program for serious aspirants aiming to become
+IAS officers. Through this scholarship test, top 100 aspirants
+preparing for the Civil Services examination will be given
+scholarships. The test is being conducted for admissions to the one
+and two-year IAS
+Foundation programs at GS SCORE and students will be eligible for
+scholarships of up to 100%.
+
+Procedure for the Test:
+
+The exam will be conducted in offline mode on 18th December @ 11:00 AM
+at test centers in 25 Cities and in Online mode.
+
+The test will consist of 50 multiple choice-based questions (MCQs).
+
+The Result will be published on 20th December.
+
+After result students will be notified via Call or SMS for further
+counselling.
+
+To write the test online registration is open till tomorrow at:
+http://emaila.iasscoremails.in/ltrack?g=1&id=NkQDCVIHVwkAV00BAwgFUAJWA0Q=VANSAgFSRVJZVwNGA1JKWAZWE1xWCFVdUlZUIVUIUFENHgBYWw==&client=11024
+<http://emaila.iasscoremails.in/ltrack?g=1&id=NkQDCVIHVwkOVk0BAwgFUAJWA0Q=VANSAgFSRVJZVwNGA1JKWAZWE1xWCFVdUlZUIVUIUFENHgBYWw==&client=11024>
+
+Regards
+
+Team GS SCORE
+
+
+--b1_edd842ed8f59b310a367bc4ccf724654
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<meta content="text/html;charset=UTF-8" http-equiv="Content-Type"><title></title>
+<style type="text/css">
+body { font-size : 11px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+a { font-size: 11px; color: #ff6600; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+a:visited { color: #666666; }
+a:hover {  text-decoration: underline; }
+p { font-weight: normal; font-size: 11px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+h1 {font-weight: bold; font-size: 14px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none;}
+h2 {font-weight: bold; font-size: 13px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none;}
+h3 {font-weight: bold; font-size: 12px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; margin:0px; padding:0px;}
+h4 {font-weight: bold; font-size: 11px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; margin:0px; padding:0px;}
+hr {width : 100%; height : 1px; color: #ff9900; size:1px;}
+ .forwardform {margin: 0 0 0 0; padding: 0 0 0 0;}
+ .forwardinput {margin: 0 0 0 0; padding: 0 0 0 0;}
+ .forwardsubmit {margin: 0 0 0 0; padding: 0 0 0 0;}
+div.emailfooter { font-size : 11px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+div.emailfooter a { font-size: 11px; color: #ff6600; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+</style>
+</head>
+<body><p style="color: rgb(0, 0, 0); font-family: Times; font-size: medium;"><span style="font-size:16px;"><span style="font-family:georgia,serif;"><span style="text-align: justify;">Dear Aspirants,</span></span></span></p>
+<p style="color: rgb(0, 0, 0); font-family: Times; font-size: medium;"><span style="font-size:16px;"><span style="font-family:georgia,serif;"><span style="text-align: justify;"><strong>Vitti Research Foundation</strong>&nbsp;in collaboration with&nbsp;</span><span style="box-sizing: border-box; font-weight: bolder; text-align: justify;">GS SCORE</span><span style="text-align: justify;">&nbsp;is conducting&nbsp;<strong>Super&nbsp;</strong></span><span style="box-sizing: border-box; font-weight: bolder; text-align: justify;">100 Scholarship Test</span><span style="text-align: justify;">&nbsp;for
+UPSC Civil Services Exam aspirants for&nbsp;</span><span style="box-sizing: border-box; font-weight: bolder; text-align: justify;">IAS Foundation 2024-25</span><span style="text-align: justify;">.</span></span></span></p>
+<p style="color: rgb(0, 0, 0); font-family: Times; font-size: medium;"><span style="font-size:16px;"><span style="font-family:georgia,serif;">The &lsquo;<span style="box-sizing: border-box; font-weight: bolder;">Super 100 Scholarship Test</span>&rsquo; is a way to Civil Service coaching and guidance program for serious aspirants aiming to become IAS officers. Through this scholarship test, top 100 aspirants preparing for the Civil Services examination will be given scholarships. The test is being conducted for admissions to the&nbsp;<strong>one&nbsp;and two-year IAS
+Foundation</strong>&nbsp;programs at GS SCORE and students&nbsp;will be&nbsp;eligible for scholarships of&nbsp;<span style="box-sizing: border-box; font-weight: bolder;">up to 100%</span>.<br style="box-sizing: border-box;" />
+<br />
+<u><strong><span style="box-sizing: border-box; font-weight: bolder;">Procedure for&nbsp;the Test:</span></strong></u></span></span></p>
+<div style="font-size: 16px; box-sizing: border-box; color: rgb(81, 88, 103); font-family: Roboto-Regular; text-align: center;">
+<ol style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding-left: 15px;">
+<li style="box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1rem; line-height: 1.625rem; font-family: Roboto, Raleway, sans-serif; text-align: left;">
+<p><span style="font-size:16px;"><span style="font-family:georgia,serif;"><span style="color: rgb(0, 0, 0);">The exam will be conducted in offline mode on 18th&nbsp;<span style="box-sizing: border-box;">December&nbsp;</span>@ 11:00 AM at test centers in 25 Cities and in Online mode.</span></span></span></p>
+</li>
+<li style="box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1rem; line-height: 1.625rem; font-family: Roboto, Raleway, sans-serif; text-align: left;">
+<p><span style="font-size:16px;"><span style="font-family:georgia,serif;"><span style="color: rgb(0, 0, 0);">The test will consist of 50 multiple choice-based questions (MCQs).</span></span></span></p>
+</li>
+<li style="box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1rem; line-height: 1.625rem; font-family: Roboto, Raleway, sans-serif; text-align: left;">
+<p><span style="font-size:16px;"><span style="font-family:georgia,serif;"><span style="color: rgb(0, 0, 0);">The Result will be published on 20th December.</span></span></span></p>
+</li>
+<li style="box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1rem; line-height: 1.625rem; font-family: Roboto, Raleway, sans-serif; text-align: left;">
+<p><span style="font-size:16px;"><span style="font-family:georgia,serif;"><span style="color: rgb(0, 0, 0);">After result students will be notified via Call or SMS for further counselling.</span></span></span></p>
+</li>
+</ol>
+</div>
+<p style="color: rgb(0, 0, 0); font-family: Times; font-size: medium;"><span style="font-size:16px;"><span style="font-family:georgia,serif;"><span style="text-align: justify;"><strong>To write the test online registration is open till tomorrow at:</strong>&nbsp;</span><a href='http://emaila.iasscoremails.in/ltrack?g=1&id=KkQDCVIHVwkOVk0BAwgFUAJWA0Q=VANSAgFSRVJZVwNGA1JKWAZWE1xWCFVdUlZUIVUIUFENHgBYWw==&client=11024' ><span style="background-color: rgb(255, 255, 0);">https://iasscore.in/scholarship/vitti</span></a><br />
+<br />
+Regards<br />
+Team GS SCORE</span></span></p>
+<br/><div><p>--<br><a href='http://emaila.iasscoremails.in/ltrack?g=1&id=KkQDCVIHVwkPX00BAwgFUAJWA0Q=VANSAgFSRVJZVwNGA1JKWAZWE1xWCFVdUlZUIVUIUFENHgBYWw==&client=11024'  >Click Here</a> to unsubscribe from this newsletter.<br><br></div><img border="0" src="http://emaila.iasscoremails.in/ltrack?g=1&m=1032&eu=UggDCVICVgACUQFNV1BQBEAEW0EAVAJBWwNXUl1TCFUiX15YC1tLUlgL&u=c9a6dde52d8ab1f61402d38f5ae39c5f&client=11024&c=0000" ></body>
+</html>
+
+
+
+--b1_edd842ed8f59b310a367bc4ccf724654--
+
